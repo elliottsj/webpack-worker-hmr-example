@@ -1,0 +1,24 @@
+{
+  "name": "webpack-worker-hmr-example",
+  "version": "0.0.1",
+  "description": "A webpack project demonstrating hot module replacement in a web worker",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliottsj/webpack-worker-hmr-example.git"
+  },
+  "author": "Spencer Elliott <me@elliottsj.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elliottsj/webpack-worker-hmr-example/issues"
+  },
+  "homepage": "https://github.com/elliottsj/webpack-worker-hmr-example#readme",
+  "dependencies": {
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  }
+}
