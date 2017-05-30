@@ -1,4 +1,6 @@
 # webpack-worker-hmr-example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/elliottsj/webpack-worker-hmr-example.svg)](https://greenkeeper.io/)
 A webpack project demonstrating hot module replacement in a web worker
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
